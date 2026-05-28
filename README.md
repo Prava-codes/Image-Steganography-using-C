@@ -67,6 +67,7 @@ Steganography-Project/
 ├── secret.txt
 └── output.bmp
 
+
 ## 🖼️ Sample BMP Image
 
 Sample BMP image used for hiding and retrieving secret data using the Least Significant Bit (LSB) steganography technique.
